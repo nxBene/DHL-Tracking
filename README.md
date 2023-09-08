@@ -28,6 +28,13 @@ Go to [bookmark.js](https://github.com/nxBene/DHL-Tracking/blob/main/bookmark.js
 
 
 
+## Sicherheit
+
+Ist der code ein Virus oder sammelt unbemekt meine daten?
+
+Nein, der code fragt lediglich nach der Trackingnummer und fügt diese zur dhl sendungsverfolgungs URL hinzu. Weder die Sendungsnummer noch andere Daten werden an mich oder andere Personen Versendet
+
+### Dies kann jederzeit durch [Chat GBT](https://chat.openai.com/) überprüft werden.
 
 
 ## Lizenz
